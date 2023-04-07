@@ -4,5 +4,7 @@ Todos meus materiais, incluindo slides fornecidos pela faculdade, estão armazen
 
 > Algumas siglas utilizadas: 
 >> TA: TeleAula
+
 >> EA: Exercício autônomo (eu que inventei de fazer)
+
 >> EP: Exercício proposto
