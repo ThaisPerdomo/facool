@@ -22,7 +22,7 @@ int main (){
     // ^ Função que imprime na tela, sem quebra de linha.
     // Ao contrário de python etc, você precisa printar algo pra mandar uma mensagem junto com o input
     // Aqui é sem o & porque o nome é um vetor de caracteres, então não precisa do endereço de memória
-    scanf("%29s", nome);
+    scanf("%29s", &nome);
     // ^ Função que recebe um valor do teclado. Neste caso, o valor é inteiro, então o %d e atribui-se a variável idade
     // ATENÇÃO: 
     // Aqui é sem o & porque o nome é um vetor de caracteres, então não precisa do endereço de memória
