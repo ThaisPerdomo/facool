@@ -13,11 +13,11 @@ Este programa é parte do meu portfólio acadêmico, pré-requisito para obtenç
 
 ```
 
-    Construção de um GUI que serve para identificar as teclas pressionadas no teclado do computador.
+    Construção de um GUI de texto que serve para identificar as teclas pressionadas no teclado do computador.
 
 ```
 
-> Basicamente, um pequeno bloco de notas
+> Basicamente, um pequeno bloco de notas que faz uma leitura das teclas digitadas pelo usuário no terminal.
 
 &nbsp;
 
@@ -39,7 +39,7 @@ Este programa é parte do meu portfólio acadêmico, pré-requisito para obtenç
 
 * Decidi utilizar o VSCode. 
 
-* Por possuir um prazo apertado, não focarei tanto na questão do design de interface. 
+* Por possuir um prazo apertado, não focarei na questão do design de interface. 
 
 &nbsp;
 
